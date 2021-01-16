@@ -42,7 +42,7 @@ export const Trip = ({heading}) => {
                             <ProductTitle>{item.node.name}</ProductTitle>
                         </TextWrap>
                         <Button 
-                                to="/trip" 
+                                to="/" 
                                 primary="true" 
                                 round="true" 
                                 css={`

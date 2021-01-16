@@ -5,6 +5,7 @@ import {FaBars} from 'react-icons/fa'
 import { menuData } from '../data/MenuData'
 import { Button } from './Button'
 
+
 const Header = () =>{
   return (
     <Nav>
@@ -18,7 +19,7 @@ const Header = () =>{
         ))}
       </NavMenu>
       <NavBtn>
-        <Button primary="true" round="true" to="/trip">Book A Trip</Button>
+        <Button  primary="true" round="true" to="/">Book A Trip</Button>
       </NavBtn>
     </Nav>
   )

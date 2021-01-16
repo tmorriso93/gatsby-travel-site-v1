@@ -5,7 +5,7 @@ import { Button } from "./Button"
 
 const Email = () => {
     return (
-        <EmailContainer>
+        <EmailContainer >
             <EmailContent>
                 <h1>Get Access to Exclusive Offers</h1>
                 <p>Sign Up for a Discount on your next Trip</p>
@@ -17,6 +17,7 @@ const Email = () => {
                                    id="email"/>
                         </label>
                         <Button 
+                                
                                 as="button" 
                                 type="submit" 
                                 primary="true" 
