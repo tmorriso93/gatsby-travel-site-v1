@@ -40,7 +40,7 @@ const Testimonials = () => {
                                                     margin-bottom: 1rem;
                                                      `} />
                         <h3>Kim Porter</h3>
-                        <p>"Great prices, I can't wait to book my next trip."</p>
+                        <p>"Great prices, I can't wait to book my next trip!"</p>
                     </Testimonial>
                
                     <Testimonial>
